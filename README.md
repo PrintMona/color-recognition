@@ -6,6 +6,7 @@ The program detects three colors:
 - Red
 - Green
 - Blue
+
 When a color is detected, it draws a rectangle around the object and displays the color name on the screen.
 
 ## How It Works
